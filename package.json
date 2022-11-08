@@ -1,0 +1,12 @@
+{
+  "name": "daisydir",
+  "version": "1.0.0-beta",
+  "description": "directory management nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "irhasalba",
+  "license": "ISC"
+}
