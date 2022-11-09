@@ -8,5 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "irhasalba",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/irhasalba/daisydir"
 }
